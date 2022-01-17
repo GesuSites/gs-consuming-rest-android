@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Michail_A_R/IntelliJIDEAProjects/AnastasiaWebService/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Michail_A_R/IntelliJIDEAProjects/AnastasiaWebService/app/src/main/res/layout/activity_main2.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Michail_A_R/IntelliJIDEAProjects/AnastasiaWebService/app/src/main/res/layout/activity_restservice.xml" value="0.33" />
+        <entry key="..\:/Users/Michail_A_R/IntelliJIDEAProjects/AnastasiaWebService/app/src/main/res/layout/content_restservice.xml" value="0.26510416666666664" />
+        <entry key="..\:/Users/Michail_A_R/IntelliJIDEAProjects/AnastasiaWebService/app/src/main/res/layout/fragment_first.xml" value="0.17395833333333333" />
+        <entry key="..\:/Users/Michail_A_R/IntelliJIDEAProjects/AnastasiaWebService/app/src/main/res/layout/fragment_second.xml" value="0.17395833333333333" />
+        <entry key="..\:/Users/Michail_A_R/IntelliJIDEAProjects/AnastasiaWebThesis/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1984375" />
+        <entry key="..\:/Users/Michail_A_R/IntelliJIDEAProjects/AnastasiaWebThesis/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1984375" />
+        <entry key="..\:/Users/Michail_A_R/IntelliJIDEAProjects/AnastasiaWebThesis/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Michail_A_R/IntelliJIDEAProjects/AnastasiaWebThesis/app/src/main/res/layout/test.xml" value="0.2520833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="jbr-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
